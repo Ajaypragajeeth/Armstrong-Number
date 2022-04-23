@@ -21,3 +21,11 @@
 
       return 0;
  }
+
+O/P:
+
+Enter number: 150
+150 is not an Armstrong number of order 3.
+Enter number: 148
+148 is not an Armstrong number of order 3.
+
